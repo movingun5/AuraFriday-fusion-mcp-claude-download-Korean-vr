@@ -132,5 +132,6 @@
 
 ## 자료 정리
 
-AuraFriday Fusion-360-MCP-Server. [https://github.com/AuraFriday/Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)
-AuraFriday MCP link server. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
+- AuraFriday Github. [https://github.com/AuraFriday](https://github.com/AuraFriday)
+- AuraFriday Fusion-360-MCP-Server. [https://github.com/AuraFriday/Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)
+- AuraFriday MCP link server. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
