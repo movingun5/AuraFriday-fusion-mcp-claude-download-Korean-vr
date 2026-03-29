@@ -28,6 +28,9 @@
 
 ### 설치 및 실행
 
+- Node.js 설치
+<img width="1341" height="138" alt="스크린샷 2026-03-30 002055" src="https://github.com/user-attachments/assets/89fc4c09-d644-41fe-8c3d-71e845f3f311" />
+
 1. **MCP Link Server 설치**
 
   - 운영 체제에 맞는 MCP Link Server 실치. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
@@ -68,6 +71,9 @@
 - 폴더 선택
 - "MCP-Link"가 추가 됐는지 확인(오른쪽에 핑크 뇌 모양 이미지)
 - "Run", "Run on startup" 체크
+
+<img width="1324" height="848" alt="스크린샷 2026-03-29 124413" src="https://github.com/user-attachments/assets/7f937782-fddf-44c2-b5ff-07928466205e" />
+
 
 4. **퓨전에서 TEXT COMMANDS 실행**
 
