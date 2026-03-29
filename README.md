@@ -30,34 +30,34 @@
 
 1. MCP Link Server 설치
 
-- 운영 체제에 맞는 MCP Link Server 실치. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
+  - 운영 체제에 맞는 MCP Link Server 실치. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
 
 2. 저장소 클론
 
 - **깃허브 데스크톱이 있는 겨우**
 
-- cmd를 열고 아래 명령어 입력
-```bash
-git clone https://github.com/AuraFriday/Fusion-360-MCP-Server.git
-```
-클론 한 폴더 저장 위치: C:\Users\(사용자 이름) (내PC -> 로컬 디스크(c) -> (사용자 이름))
-폴더 이름: Fusion-360-MCP-Server
+  - cmd를 열고 아래 명령어 입력
+  ```bash
+  git clone https://github.com/AuraFriday/Fusion-360-MCP-Server.git
+  ```
+  클론 한 폴더 저장 위치: C:\Users\(사용자 이름) (내PC -> 로컬 디스크(c) -> (사용자 이름))
+  폴더 이름: Fusion-360-MCP-Server
 
 - **깃허브 데스크톱을 다운로드 안한 경우**
 
-- 여기로 이동 [https://github.com/AuraFriday/Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)
-- 녹색 Code 버튼 클릭
-- Download ZIP 클릭
-- 다운로드 폴더에 있는 파일 압축 풀기
-- C:\Users\(사용자 이름) (내PC -> 로컬 디스크(c) -> (사용자 이름))으로 압축 푼 폴더 전체 이동
+  - 여기로 이동 [https://github.com/AuraFriday/Fusion-360-MCP-Server](https://github.com/AuraFriday/Fusion-360-MCP-Server)
+  - 녹색 Code 버튼 클릭
+  - Download ZIP 클릭
+  - 다운로드 폴더에 있는 파일 압축 풀기
+  - C:\Users\(사용자 이름) (내PC -> 로컬 디스크(c) -> (사용자 이름))으로 압축 푼 폴더 전체 이동
 
 - **git clone 명령어가 오류 날 경우**
 
-- powershell을 열고 아래 명령어 입력
-```bash
-winget upgrade --id Git.Git
-```
-- 터미널 재시작 후 다시 git clone 명령어 실행
+  - powershell을 열고 아래 명령어 입력
+  ```bash
+  winget upgrade --id Git.Git
+  ```
+  - 터미널 재시작 후 다시 git clone 명령어 실행
 
 3. 퓨전 ADD-IN 추가
 
