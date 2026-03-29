@@ -38,7 +38,7 @@
 
 - cmd를 열고 아래 명령어 입력
 ```bash
-git clone [https://github.com/AuraFriday/Fusion-360-MCP-Server.git](https://github.com/AuraFriday/Fusion-360-MCP-Server.git)
+git clone https://github.com/AuraFriday/Fusion-360-MCP-Server.git
 ```
 클론 한 폴더 저장 위치: C:\Users\(사용자 이름) (내PC -> 로컬 디스크(c) -> (사용자 이름))
 폴더 이름: Fusion-360-MCP-Server
