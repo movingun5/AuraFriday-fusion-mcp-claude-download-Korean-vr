@@ -30,7 +30,7 @@
 
 1. MCP Link Server 설치
 
-운영 체제에 맞는 MCP Link Server 실치. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
+- 운영 체제에 맞는 MCP Link Server 실치. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
 
 2. 저장소 클론
 
