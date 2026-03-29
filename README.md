@@ -28,11 +28,11 @@
 
 ### 설치 및 실행
 
-1. MCP Link Server 설치
+1. **MCP Link Server 설치**
 
   - 운영 체제에 맞는 MCP Link Server 실치. [https://github.com/AuraFriday/mcp-link-server/releases/tag/latest](https://github.com/AuraFriday/mcp-link-server/releases/tag/latest)
 
-2. 저장소 클론
+2. **저장소 클론**
 
 - **깃허브 데스크톱이 있는 겨우**
 
@@ -59,7 +59,7 @@
   ```
   - 터미널 재시작 후 다시 git clone 명령어 실행
 
-3. 퓨전 ADD-IN 추가
+3. **퓨전 ADD-IN 추가**
 
 - 퓨전에서 새 디자인 생성 후 상단 매뉴에서 유틸리티 선택
 - "ADD-INS" 클릭 
@@ -69,19 +69,19 @@
 - "MCP-Link"가 추가 됐는지 확인(오른쪽에 핑크 뇌 모양 이미지)
 - "Run", "Run on startup" 체크
 
-4. 퓨전에서 TEXT COMMANDS 실행
+4. **퓨전에서 TEXT COMMANDS 실행**
 
 - 새 디자인 화면에 "Ctrl + Alt + C" 입력 후 하단에 "TEXT COMMANDS" 생성됨
 - "TEXT COMMANDS" 오른쪽에 "+" 버튼 누르기
 - 오른쪽 하단에 "Txt", "Py", "Js" 중 "Py" 선택
 
-5. 로컬 API 암호 확인
+5. **로컬 API 암호 확인**
 
 - 파일 익스플로러에서 C:\AuraFriday\mcp-link-server\bin 여기로 이동 (내PC -> 로컬 디스크C -> AuraFriday -> mcp-link-server -> bin)
 - "nativemassaging.json" 파일 VS code로 열기
 - 7번째 줄에 "Authorization": "Bearer (로컬 API 암호)"에서 로컬 API 암호 복사(6번에서 사용)
 
-6. 클로드랑 퓨전 MCP로 연결
+6. **클로드랑 퓨전 MCP로 연결**
 
 - 클로드 대스크톱에서 "설정 -> 개발자 -> Edit config"
 - 파일 탐색기가 열리면 "claude_desktop_config.json" 파일 VS Code로 샐행
