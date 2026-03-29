@@ -1,4 +1,4 @@
-# fusion-mcp-claude
+# AuraFriday fusion-mcp-claude 다운로드 한국어 버전 
 이 프로젝트는 AuraFriday의 클로드 데스크톱과 퓨전 360을 MCP로 연결하는 방법을 체계적으로 정리한 목록이다.
 
 ## 목차 
