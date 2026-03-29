@@ -77,7 +77,7 @@
 
 5. **로컬 API 암호 확인**
 
-- 파일 익스플로러에서 C:\AuraFriday\mcp-link-server\bin 여기로 이동 (내PC -> 로컬 디스크C -> AuraFriday -> mcp-link-server -> bin)
+- 파일 탐색기에서 C:\AuraFriday\mcp-link-server\bin 여기로 이동 (내PC -> 로컬 디스크C -> AuraFriday -> mcp-link-server -> bin)
 - "nativemassaging.json" 파일 VS code로 열기
 - 7번째 줄에 "Authorization": "Bearer (로컬 API 암호)"에서 로컬 API 암호 복사(6번에서 사용)
 
