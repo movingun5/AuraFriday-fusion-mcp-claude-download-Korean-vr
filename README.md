@@ -14,11 +14,13 @@
 이 프로젝트는 MCP를 이용해 클로드 데스크톱과 퓨전 360을 연결하여 자연어로 모델링 하는데 목적을 두고 있다.
 
 ## 주요 기능 
+
 - 클로드를 이용한 자연어 모델링
 
 ## 시작하기 (Getting Started)
 
 ### 요구 사항 (Prerequisites)
+
 - 클로드 데스크톱 [다운로드](https://claude.com/ko-kr/download)
 - 퓨전 360 [다운로드](https://www.autodesk.com/products/fusion-360/personal)
 - Node.js (LTS) [다운로드](https://nodejs.org/ko/download)
