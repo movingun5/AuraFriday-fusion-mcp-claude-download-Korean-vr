@@ -60,7 +60,7 @@
 
   - powershell을 열고 아래 명령어 입력
   ```bash
-  winget upgrade --id Git.Git
+  winget upgrade --id Git.Git -e --source winget
   ```
   - 터미널 재시작 후 다시 git clone 명령어 실행
 
